@@ -18,3 +18,4 @@ fun Club.recap(): String {
             "Tropi Liga Champions: $LigaChampions, Tropi liga Eropa: $Ligaeropa, " +
             "Total Tropi : $totalTrophy"
 }
+

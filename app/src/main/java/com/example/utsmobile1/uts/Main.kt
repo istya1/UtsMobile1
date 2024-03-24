@@ -53,3 +53,4 @@ fun filterByEuropeanTrophy(clubs: List<Club>): List<Club> {
         return clubs.filter { it.LigaChampions > 0 || it.Ligaeropa > 0 }
     }
     return filteredClubs }
+
